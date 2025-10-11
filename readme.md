@@ -11,4 +11,4 @@ The IRR is the discount rate that makes the Net Present Value (NPV) of all cash 
 
 Thankyou!
 
-Author: Dhivyarajan K' Yozhandren - https://www.linkedin.com/in/dhivkrish7/
+https://www.linkedin.com/in/dhivkrish7/
