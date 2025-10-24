@@ -9,6 +9,9 @@ The IRR is the discount rate that makes the Net Present Value (NPV) of all cash 
 3. Type your series of cashflows and press 'Enter'
 4. The file give you the calculated IRR
 
+## Useful-links
+1. https://en.wikipedia.org/wiki/Internal_rate_of_return
+
 Thankyou!
 
 https://www.linkedin.com/in/dhivkrish7/
